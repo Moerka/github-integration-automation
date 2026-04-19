@@ -613,3 +613,14 @@ This skill is provided under the MIT License. See LICENSE.txt for details.
 **Skill Version:** 1.0.0  
 **Last Updated:** April 19, 2026  
 **Status:** Production Ready ✅
+
+## Advanced Authentication
+
+This skill uses advanced GitHub authentication with:
+- JWT Token Management
+- Encrypted Secret Vault
+- GitHub App Integration
+- Permission Scoping
+- Audit Logging
+
+See ADVANCED_AUTH_GUIDE.md for details.
